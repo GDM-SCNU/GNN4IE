@@ -1,1 +1,1 @@
-The reviewed papers list from “Graph Neural Network Empowers Intelligent Education: A Systematic Review from An Application Perspective”, submitted to IEEE Transactions on Learning Technologies.
+Meta data for review “Graph Neural Network Empowers Intelligent Education: A Systematic Review from An Application Perspective”, submitted to IEEE Transactions on Learning Technologies, including topic, title, authors, publication year, sources and abstract of selected papers. If you have any questions, be free to contact me. Email: hechaobo@foxmail.com.
